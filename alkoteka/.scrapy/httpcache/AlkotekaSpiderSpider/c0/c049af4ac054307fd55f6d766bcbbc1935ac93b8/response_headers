@@ -1,0 +1,10 @@
+Server: nginx
+Date: Fri, 15 Aug 2025 10:37:21 GMT
+Content-Type: application/json
+Vary: Accept-Encoding
+Cache-Control: no-cache, private
+X-Ratelimit-Limit: 120
+X-Ratelimit-Remaining: 119
+Set-Cookie: XSRF-TOKEN=eyJpdiI6IjJGN3ArRmpYUTdpdDExblA5aVlScEE9PSIsInZhbHVlIjoiNnVIbW80aE5XSjR2aTA4V1NOcUE0TURuZWNlbUhoOFR5SlBwTlZkSVl2T1lhcVgzVFByZkJaV2o5VEJMNjQ2RnZGSTFZc0hBd2J5MlE0bk00WjYxem4xTW5kc3JTcm4wVENYMmpEZ2lvc3VUVUM5ZlhVSDgrbzZMN2sxWXZKSSsiLCJtYWMiOiJiNzUyYWJiYzkzOGQ2ZTkxOTI1YmNhOTA2NjQwNjNjYjA3ZWE3ZjJhNjIwNjM3MzI5YzdjMjQ3ZjZiOTE0YTExIiwidGFnIjoiIn0%3D; expires=Tue, 14-Oct-2025 10:37:21 GMT; Max-Age=5184000; path=/; samesite=lax
+Set-Cookie: sid=eyJpdiI6IjdaVUpOOE9tTWx6QnRNUCttWHNoTlE9PSIsInZhbHVlIjoiTmd2R3FKa21VbGxlVldUUlFybEZIOGd5cjNDd0NtVkpqcWY4MzBUSjd5bHFjNjVtNUFERXUvak9HVkVQK0s0SG54dXY5UmM0UHY1UUF0VlQ3T255UXg2czh6aDd5NFY5aWtwWjdNTnFZTmJWeDRXRDczVExDVWZOWmc2WkRQdFEiLCJtYWMiOiI5MTA2ZGU3ODg2ZDY4MTMwNTM2ODNmODY4ZTM3NmM0ZjRkMGZiNDRhNDJjMDkzMjAzMmVlZDliMGVmZWJmYjhiIiwidGFnIjoiIn0%3D; expires=Tue, 14-Oct-2025 10:37:21 GMT; Max-Age=5184000; path=/; httponly; samesite=lax
+Content-Encoding: gzip

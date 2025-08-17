@@ -1,0 +1,14 @@
+Server: nginx
+Date: Fri, 15 Aug 2025 09:55:06 GMT
+Content-Type: application/json
+Vary: Accept-Encoding
+Cache-Control: no-cache, private
+X-Ratelimit-Limit: 120
+X-Ratelimit-Remaining: 62
+Set-Cookie: XSRF-TOKEN=eyJpdiI6InBsTTU4cmp5N3Z5WDBVbk9rVVNRL2c9PSIsInZhbHVlIjoiY3R4Tm9IWHQvT3puNElUQzY1Z1VNL1g2YlpiZWpGOVpLK1krRXFmdnBzSU1ZQ3VORmZIVW9pNWtuMThsUHQxWFlaUjdXdGlvVTZtOGg4d2NRZmRWRVFwU1BpOWI0RTBRbHhZWjRNVml4anVJRjlnK1F4cy9JVHIvenRSMGxMQU8iLCJtYWMiOiI1NTMyM2UzMTZhNWU4ZWMyZGE0ODYxNzMwNDQ4MzFjMTc5ZWJkMWVhZTE3NmZhYTlkOWI3MjA1OWNjZjViNzRlIiwidGFnIjoiIn0%3D; expires=Tue, 14-Oct-2025 09:55:06 GMT; Max-Age=5184000; path=/; samesite=lax
+Set-Cookie: sid=eyJpdiI6IlRPbXpZcWdKeHI0Uzc5OGZHUFlienc9PSIsInZhbHVlIjoiekM1ZG5USFFORFNSNnA4K2VaM29Db2RTbUZqT1dGOFFxUzBrVnk5eUdYQit0UFF3Nlc2NGl1dnpicHFqNXZtZnlyMmxMQStEd2pYRmFickp4cmNZaXh6Mzg1SDRQN0taTXNjdUo5UWNzMXNzdThhNTlSanlnNTBVRXlyN1F6TEQiLCJtYWMiOiI2NGY0NTA5NTJlMzUyZmQ3ZjkzZTAyMDhlYTc4ZjVlNzk0Njc3YjkwZDk3YzU5YTAxMjdjYzA0OGY2OTNhOTQ5IiwidGFnIjoiIn0%3D; expires=Tue, 14-Oct-2025 09:55:06 GMT; Max-Age=5184000; path=/; httponly; samesite=lax
+X-Frame-Options: SAMEORIGIN
+X-Content-Type-Options: nosniff
+X-Xss-Protection: 1; mode=block
+Content-Security-Policy: default-src 'self' https://mc.yandex.ru; img-src 'self' data: blob: rutube.ru *.rutube.ru vk.com *.vk.com https://www.gravatar.com https://web.alkoteka.com *.google-analytics.com www.googletagmanager.com https://ssl.gstatic.com https://www.gstatic.com https://mc.yandex.ru https://*.maps.yandex.net https://api-maps.yandex.ru https://yandex.ru; child-src 'self' https://api-maps.yandex.ru blob: https://mc.yandex.ru; script-src 'self' 'unsafe-inline' 'unsafe-eval' *.google-analytics.com https://apis.google.com https://www.google.com https://www.gstatic.com https://www.googletagmanager.com https://tagmanager.google.com https://mc.yandex.ru https://api-maps.yandex.ru https://suggest-maps.yandex.ru http://*.maps.yandex.net https://yandex.ru https://yastatic.net https://launcher.giftery.cards/js/index.js; style-src 'self' 'unsafe-inline' https://tagmanager.google.com blob: https://fonts.googleapis.com; font-src 'self' data: https://fonts.gstatic.com https://fonts.googleapis.com; frame-src 'self' *.vimeocdn.com *.vimeo.com *.youtube.com rutube.ru vk.com *.vk.com https://www.google.com https://api-maps.yandex.ru blob: https://mc.yandex.ru https://alkoteka-4.vrealspace.pro https://widget.giftery.cards https://payecom.ru https://platiecom.ru; object-src 'self' blob:; connect-src 'self' https://www.google-analytics.com https://mc.yandex.ru *.dadata.ru
+Content-Encoding: gzip

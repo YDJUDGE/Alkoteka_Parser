@@ -1,0 +1,5 @@
+Server: nginx
+Date: Fri, 15 Aug 2025 09:55:00 GMT
+Content-Type: application/json
+Cache-Control: no-cache, private
+Set-Cookie: sid=eyJpdiI6InhKTlNlYXg0eWJMZHZwVjk4aC9pV0E9PSIsInZhbHVlIjoiVnkvRGlMbUprRDFESGFPcTlVSjZ6Sm53Q1dseERpUjk4NUZidlZIQUc4ajJKU05IcEVwaHR4UnFVcEQxUUR0S2xKN21HRUdkOXpYVThpaS9LYk84LzM3ZlFuYkhZRmVueTBOM2J3THpWbVIvL1o5Uk5EQVo3Y3J1OU1vNGVMR3QiLCJtYWMiOiIzZWRiYzQ4NTZjYjZiZGU0NTI4ZmMwNWY4YTVmODBhMzhlYWIxNTRjMGE3Nzk1MDAwZWZiNWE5N2M3MjlhNTVlIiwidGFnIjoiIn0%3D; expires=Tue, 14-Oct-2025 09:55:00 GMT; Max-Age=5184000; path=/; httponly; samesite=lax

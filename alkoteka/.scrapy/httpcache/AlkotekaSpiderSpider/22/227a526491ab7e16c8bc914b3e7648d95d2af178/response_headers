@@ -1,0 +1,12 @@
+Server: nginx
+Date: Wed, 13 Aug 2025 12:12:14 GMT
+Content-Type: text/html; charset=UTF-8
+Vary: Accept-Encoding
+Cache-Control: no-cache, private
+Set-Cookie: XSRF-TOKEN=eyJpdiI6IjM3OEpGUFZ1UWwzWjlZdmM2bkNyREE9PSIsInZhbHVlIjoiRVQ5OGsrVU8rRHBoTE9qeTlqUy9FenZtMk1BL1EzT1dwcXRpODVYUjFkNi9YVlNneFFRNVpsU0ZaaGN1QXZ4dkhIUXVFdmNFd2hZMHI4YVd4RzV6MWZoNEZnVUNhckdRZ1VoQXlIRDBSZGpGTE9pVDF3L3dlNERjVnI1cEh5K28iLCJtYWMiOiJhODk1M2EwNGFhYjEwOGIyNmUxN2VjODg0NDg3NmQ5ZWIzMDIyOGNiMDgwMjExMDVhMWE0ZDAyNDlmZWQxM2M0IiwidGFnIjoiIn0%3D; expires=Sun, 12-Oct-2025 12:12:14 GMT; Max-Age=5184000; path=/; samesite=lax
+Set-Cookie: sid=eyJpdiI6IlBEeUlFSm40VFBydnd0YVdQeGMzRGc9PSIsInZhbHVlIjoiQmwySGY4NExoUFcybWdQQzdGYStIUVBlK05HeklMclZhaTFzNGQ5eTVXNyt6d0lqeXdWdGdCeG5McENXUVZKWXpjZW41bnNsWGxxSncwWmlwUkJRQ0ZoTFJUTVJDbW4zaThVdDd5VUFXZnF6a1Zmbm9iekVoSHV3RWhVTDJBU1giLCJtYWMiOiI2MDYyZjY2MjJmOGJjYzFkYjlhM2RmMWNkMGVlZTg5YjM2Yzc4NWUxMGNiNDQyY2VmYjU0MWU2YTRmNWQ3ZjEwIiwidGFnIjoiIn0%3D; expires=Sun, 12-Oct-2025 12:12:14 GMT; Max-Age=5184000; path=/; httponly; samesite=lax
+X-Frame-Options: SAMEORIGIN
+X-Content-Type-Options: nosniff
+X-Xss-Protection: 1; mode=block
+Content-Security-Policy: default-src 'self' https://mc.yandex.ru; img-src 'self' data: blob: rutube.ru *.rutube.ru vk.com *.vk.com https://www.gravatar.com https://web.alkoteka.com *.google-analytics.com www.googletagmanager.com https://ssl.gstatic.com https://www.gstatic.com https://mc.yandex.ru https://*.maps.yandex.net https://api-maps.yandex.ru https://yandex.ru; child-src 'self' https://api-maps.yandex.ru blob: https://mc.yandex.ru; script-src 'self' 'unsafe-inline' 'unsafe-eval' *.google-analytics.com https://apis.google.com https://www.google.com https://www.gstatic.com https://www.googletagmanager.com https://tagmanager.google.com https://mc.yandex.ru https://api-maps.yandex.ru https://suggest-maps.yandex.ru http://*.maps.yandex.net https://yandex.ru https://yastatic.net https://launcher.giftery.cards/js/index.js; style-src 'self' 'unsafe-inline' https://tagmanager.google.com blob: https://fonts.googleapis.com; font-src 'self' data: https://fonts.gstatic.com https://fonts.googleapis.com; frame-src 'self' *.vimeocdn.com *.vimeo.com *.youtube.com rutube.ru vk.com *.vk.com https://www.google.com https://api-maps.yandex.ru blob: https://mc.yandex.ru https://alkoteka-4.vrealspace.pro https://widget.giftery.cards https://payecom.ru https://platiecom.ru; object-src 'self' blob:; connect-src 'self' https://www.google-analytics.com https://mc.yandex.ru *.dadata.ru
+Content-Encoding: gzip
